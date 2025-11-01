@@ -1,4 +1,4 @@
-# 💫 About Me:
+##
 👾 Game Developer | 💻 Full Stack Developer  <br>Call sign: frosthowl ❄️  <br><br>Passionate about crafting immersive gameplay experiences and building powerful web applications.  <br>Combining creativity, logic, and clean code to bring ideas to life — one line at a time.<br>
 
 
