@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-profile-banner.png" alt="Frosthowl Banner" width="100%">
+  <img src="./brave_screenshot_gitfut.com.png" alt="Frosthowl Banner" width="100%">
 </p>
 
 
