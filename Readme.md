@@ -2,7 +2,7 @@
   <img src="./brave_screenshot_gitfut.com.png" alt="Frosthowl Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rohan Dhanerwal</h1>
+<h1 align="center">Hi 👋, I'm Rohan </h1>
 
 <h3 align="center">
 👾 Game Developer • 💻 Full Stack Developer • 🎮 Unity Developer
@@ -112,15 +112,6 @@ I enjoy combining creativity, problem solving, and clean architecture to build p
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohan-005&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -130,15 +121,6 @@ I enjoy combining creativity, problem solving, and clean architecture to build p
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rohan-005/rohan-005/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
