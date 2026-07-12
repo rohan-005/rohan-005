@@ -2,18 +2,175 @@
   <img src="./brave_screenshot_gitfut.com.png" alt="Frosthowl Banner" width="100%">
 </p>
 
+<h1 align="center">Hi 👋, I'm Rohan Dhanerwal</h1>
 
-##
-👾 Game Developer | 💻 Full Stack Developer  <br>Call sign: frosthowl ❄️  <br><br>Passionate about crafting immersive gameplay experiences and building powerful web applications.  <br>Combining creativity, logic, and clean code to bring ideas to life — one line at a time.<br>
+<h3 align="center">
+👾 Game Developer • 💻 Full Stack Developer • 🎮 Unity Developer
+</h3>
 
+<p align="center">
+Call Sign: <b>frosthowl ❄️</b>
+</p>
 
-Visit :- https://workwithrohan.vercel.app/
+<p align="center">
+Passionate about crafting immersive gameplay experiences and building scalable web applications.<br>
+I enjoy combining creativity, problem solving, and clean architecture to build products that people love.
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_rohan005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohan.005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frosthowl005@gmail.com) 
+<p align="center">
+<a href="https://workwithrohan.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000?style=for-the-badge"/>
+</a>
 
-# 💻 Technologies/Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<a href="mailto:frosthowl005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
+<img src="https://komarev.com/ghpvc/?username=rohan-005&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎮 Unity Game Developer
+- 💻 MERN Stack Developer
+- ⚡ Next.js & React Enthusiast
+- 📚 Building Coding Platforms & LMS Systems
+- 🤖 Interested in AI, LLMs & Automation
+- 🌱 Always learning something new
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://workwithrohan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:frosthowl005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/_rohan005">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_rohan.005">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![](https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,php)
+
+### Frontend
+
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite)
+
+### Backend
+
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
+### Game Development
+
+![](https://skillicons.dev/icons?i=unity,blender)
+
+### Tools
+
+![](https://skillicons.dev/icons?i=git,github,vscode,linux,figma)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohan-005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rohan-005&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohan-005&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-005&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rohan-005/rohan-005/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+---
+
+# ⚡ Current Focus
+
+- 🎮 Unity Game Development
+- 💻 Full Stack Applications
+- 🤖 AI Powered Products
+- 📚 LMS & Coding Platforms
+- 📈 Investment Research Systems
+
+---
 
 ![](./profile-3d-contrib/profile-night-view.svg)
